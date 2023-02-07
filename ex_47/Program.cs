@@ -49,6 +49,6 @@ int n = Num("задайте кол-во столбцов массива");
 
 double[,] matrix = NewMatrix(m, n);
 
-//выводим рез-т
+//выводим результат
 Console.WriteLine($"m = {m}, n = {n}");
 ShowResult (matrix);
