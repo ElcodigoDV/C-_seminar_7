@@ -1,0 +1,15 @@
+/home/d/Documents/C#/examples/C#_seminar_7/ex_47/obj/Debug/net6.0/ex_47.csproj.AssemblyReference.cache
+/home/d/Documents/C#/examples/C#_seminar_7/ex_47/obj/Debug/net6.0/ex_47.GeneratedMSBuildEditorConfig.editorconfig
+/home/d/Documents/C#/examples/C#_seminar_7/ex_47/obj/Debug/net6.0/ex_47.AssemblyInfoInputs.cache
+/home/d/Documents/C#/examples/C#_seminar_7/ex_47/obj/Debug/net6.0/ex_47.AssemblyInfo.cs
+/home/d/Documents/C#/examples/C#_seminar_7/ex_47/obj/Debug/net6.0/ex_47.csproj.CoreCompileInputs.cache
+/home/d/Documents/C#/examples/C#_seminar_7/ex_47/bin/Debug/net6.0/ex_47
+/home/d/Documents/C#/examples/C#_seminar_7/ex_47/bin/Debug/net6.0/ex_47.deps.json
+/home/d/Documents/C#/examples/C#_seminar_7/ex_47/bin/Debug/net6.0/ex_47.runtimeconfig.json
+/home/d/Documents/C#/examples/C#_seminar_7/ex_47/bin/Debug/net6.0/ex_47.dll
+/home/d/Documents/C#/examples/C#_seminar_7/ex_47/bin/Debug/net6.0/ex_47.pdb
+/home/d/Documents/C#/examples/C#_seminar_7/ex_47/obj/Debug/net6.0/ex_47.dll
+/home/d/Documents/C#/examples/C#_seminar_7/ex_47/obj/Debug/net6.0/refint/ex_47.dll
+/home/d/Documents/C#/examples/C#_seminar_7/ex_47/obj/Debug/net6.0/ex_47.pdb
+/home/d/Documents/C#/examples/C#_seminar_7/ex_47/obj/Debug/net6.0/ex_47.genruntimeconfig.cache
+/home/d/Documents/C#/examples/C#_seminar_7/ex_47/obj/Debug/net6.0/ref/ex_47.dll
